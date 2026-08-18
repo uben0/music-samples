@@ -3,5 +3,11 @@
   "bd": [
     "bd/0.wav",
     "bd/1.wav"
+  ],
+  "hh": [
+    "hh/0.wav"
+  ],
+  "sd": [
+    "sd/0.wav"
   ]
 }

@@ -1,4 +1,5 @@
 {
+  "_base": "https://raw.githubusercontent.com/uben0/music-samples/main/",
   "bd": [
     "bd/0.wav",
     "bd/1.wav"
